@@ -8,3 +8,8 @@
     justify-self: start;
     margin-top: 100px;
 }
+
+.foo2 {
+    max-width: 100px;
+    overflow: hidden;
+}
