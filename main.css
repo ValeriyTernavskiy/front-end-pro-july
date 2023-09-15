@@ -1,6 +1,5 @@
-.container {
+.container:active {
     margin: 10px auto;
-    color: red;
 }
 
 .foo-aaa {
