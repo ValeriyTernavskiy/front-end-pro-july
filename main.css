@@ -1,8 +1,7 @@
-.container {
+.container:active {
     margin: 10px auto;
-    color: red;
 }
 
-.foo {
+.foo-aaa {
     display: flex;
 }
