@@ -18,3 +18,8 @@
   color: yellow;
   margin: 10px;
 }
+
+.foo4 {
+    display: inline-flex;
+    justify-content: flex-end;
+}
