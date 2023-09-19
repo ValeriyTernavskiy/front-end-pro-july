@@ -13,3 +13,8 @@
     max-width: 100px;
     overflow: hidden;
 }
+
+.foo3 {
+  color: yellow;
+  margin: 10px;
+}
