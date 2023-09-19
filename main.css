@@ -1,0 +1,15 @@
+.container:active {
+    margin: 10px auto;
+}
+
+.foo-aaa {
+    display: flex;
+    flex-direction: row;
+    justify-self: start;
+    margin-top: 100px;
+}
+
+.foo2 {
+    max-width: 100px;
+    overflow: hidden;
+}
